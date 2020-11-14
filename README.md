@@ -35,5 +35,5 @@ After cloning this repository, just run the script RRT_star.m
 
 Example of an expected result. Tree with 3000 nodes
 
-![image](https://github.com/adrianomcr/rrt_star/blob/master/image/example.png)
+![image](./image/example.png)
 
